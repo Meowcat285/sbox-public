@@ -1,5 +1,0 @@
-managed static class Sandbox.ScreenRecorder
-{
-	void RecordVideoFrame( IRenderContext context, ITexture hColor );
-	bool IsRecording();
-}

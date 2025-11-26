@@ -1,4 +1,0 @@
-managed static class Sandbox.ScreenshotService
-{
-	void ProcessFrame( IRenderContext context, ITexture hColor );
-}
